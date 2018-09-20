@@ -39,8 +39,14 @@ public class ProblemSet1 {
       	System.out.println(" |  \'-\'  |");
       	System.out.println("  +-----+");
 		
-		System.out.println("/// EXERCISE 4 /////////////////////////////////////////////////\n");
-		
-		System.out.println("/// EXERCISE 5 /////////////////////////////////////////////////\n");
+	System.out.println("/// EXERCISE 4 /////////////////////////////////////////////////\n");
+      	System.out.println("H E L L O");
+      	System.out.println("E       A");
+      	System.out.println("L       P");
+      	System.out.println("L       C");
+      	System.out.println("O A P C S");
+      
+	System.out.println("/// EXERCISE 5 /////////////////////////////////////////////////\n");
+      	System.out.println("\"The answer\'s quite simple,\" the professor said. \"Just think outside the box!\"");
 	}
 }

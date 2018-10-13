@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class MyClass {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Welcome to Mediventure! Choose your level:\n1 for basic:\n2 for intermediate:\n3 for difficult:");
+        System.out.println("Welcome to Mediventure! Choose your level:\n1 for common colds:\n2 for lung diseases:\n3 for stds:");
         int choice = in.nextInt();
         if (choice == 1)  {
             System.out.println("Are you in any type of pain?\n Press 1 for yes\n Press 2 for no");
